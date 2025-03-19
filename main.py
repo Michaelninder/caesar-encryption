@@ -22,5 +22,5 @@ def decrypt(text, amount):
     return decrypted_text
 
 
-print(encrypt("This is an example text that should be printed as a text shifted by 2", 2))
-print(decrypt("Vjku ku cp gzcorng vgzv vjcv ujqwnf dg rtkpvgf cu c vgzv ujkhvgf da 2", 2))
+print(encrypt("This is an example text that should be printed as a text shifted by 2.", 2))
+print(decrypt("Vjku ku cp gzcorng vgzv vjcv ujqwnf dg rtkpvgf cu c vgzv ujkhvgf da 2.", 2))
